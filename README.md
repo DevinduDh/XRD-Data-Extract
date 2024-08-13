@@ -16,11 +16,10 @@ During my research on thin films, I performed X-ray diffraction (XRD) analysis a
 - Google Colab (for running the notebook)
 
 ## Usage
-## Open the Notebook in Google Colab
+# Open This Notebook in Google Colab
 
-Click the button below to open the notebook in Google Colab.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DevinduDh/XRD-Data-Extract/blob/main/extract_xrd_data.ipynb)
 
-!Open In Colab
 
 ## Upload and Process Files
 
