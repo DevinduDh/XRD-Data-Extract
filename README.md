@@ -24,5 +24,5 @@ During my research on thin films, I performed X-ray diffraction (XRD) analysis a
 ## Upload and Process Files
 
 1. Run the notebook cells to upload your `.ras` files.
-2. The notebook will process each file and save the results as separate Excel files.
+2. The notebook will process each file and save the results as separate Excel/.ras files.
 
